@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Pomodoro</string>
+    <string name="focus_time">\n</string>
+    <string name="enter_timer_name">Enter timer name</string>
+    <string name="rest_time">Rest Time</string>
+    <string name="add_timer">Add Timer</string>
+    <string name="add_pomodoro">Add Pomodoro</string>
+    <string name="plus">+</string>
+    <string name="pomodoros">Pomodoros</string>
+    <string name="pomodoro">Pomodoro</string>
+    <string name="_25">25</string>
+    <string name="_5">5</string>
+    <string name="timer_name">Timer Name</string>
+    <string name="edit_pomodoro">Edit Pomodoro</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="_00_00_00">00:00:00</string>
+</resources>
